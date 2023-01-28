@@ -15,7 +15,7 @@ namespace VisitorPattern
             {
                 new Students("Mohamed Elshekh Khalil"),
                 new Students("Ahmed Al-Mosallam"),
-                new Students("Mohamed Al-Bliwi")
+                new Students("Mohamed Al-Balawi")
             };
         }
 
