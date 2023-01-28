@@ -19,7 +19,7 @@ namespace VisitorPattern
             };
         }
 
-        public void perphormOperation(IVisitor visitor)
+        public void performOperation(IVisitor visitor)
         {
             foreach (var stud in elements)
             {
