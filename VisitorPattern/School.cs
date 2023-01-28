@@ -14,7 +14,7 @@ namespace VisitorPattern
             elements = new List<IElement>
             {
                 new Students("Mohamed Elshekh Khalil"),
-                new Students("Ahmed Al-Msallam"),
+                new Students("Ahmed Al-Mosallam"),
                 new Students("Mohamed Al-Bliwi")
             };
         }
