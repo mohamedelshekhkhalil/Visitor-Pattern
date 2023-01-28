@@ -10,8 +10,8 @@ class Program
 
         var visitor2 = new Teacher("Abdul-Khaleq");
 
-        school.perphormOperation(visitor1);
-        school.perphormOperation(visitor2);
+        school.performOperation(visitor1);
+        school.performOperation(visitor2);
         Console.WriteLine(school);
     }
 }
